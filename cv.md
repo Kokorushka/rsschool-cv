@@ -13,7 +13,7 @@ Phone: +7 926 895 55 99
 
 E-mail: kokosha117@gmail.com
 
-[https://github.com/Kokorushka](Github)
+[Github](https://github.com/Kokorushka)
 
 ***
 
@@ -39,7 +39,7 @@ Thanks to my previous work experience, my soft-skills arsenal includes attention
 
 #### Code example:
 
-[https://www.codewars.com/kata/5b6db1acb118141f6b000060](**Let's Recycle! Kata from Codewars**)
+[**Let's Recycle! Kata from Codewars**](https://www.codewars.com/kata/5b6db1acb118141f6b000060)
 
 You will be given a list of objects. Each object has type, material, and possibly secondMaterial. The existing materials are: paper, glass, organic, and plastic.
 
